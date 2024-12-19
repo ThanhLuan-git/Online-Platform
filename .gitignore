@@ -1,0 +1,30 @@
+# Binaries
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.buildlog
+*.log
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider files
+.idea/
+
+# Dependency directories
+node_modules/
+packages/
+
+# Publish outputs
+wwwroot/
